@@ -1,4 +1,9 @@
 =================================
+Version 7.4.1 - December 28, 2018
+=================================
+- Added support for play internals phone notification tone
+
+=================================
 Version 7.4.0 - December 21, 2018
 =================================
 - Added APIs to manage active notifications
